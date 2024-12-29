@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    // I'm feeling lucky today
+    let lucky_number = 7;
 }
