@@ -31,3 +31,5 @@ sudo nvim /etc/hosts
 
 - 找到`github.com`和`github.global.ssl.fastly.net`的ip地址, 修改本地hosts实现绕过DNS直连Github
 
+## 加油🥳🥳🥳
+
